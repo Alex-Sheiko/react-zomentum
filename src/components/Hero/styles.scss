@@ -1,10 +1,8 @@
 .hero {
-  &__wrapper {
-    background-color: #2f70fe;
-    padding: 114px 0 139px;
-    @media (max-width: 768px) {
-      padding: 56px 0 79px;
-    }
+  background-color: #2f70fe;
+  padding: 114px 0 139px;
+  @media (max-width: 768px) {
+    padding: 56px 0 79px;
   }
 
   &__container {
@@ -46,6 +44,5 @@
     padding: 16px 25px;
     background-color: #000000;
     margin: 0 auto;
-    display: block;
   }
 }

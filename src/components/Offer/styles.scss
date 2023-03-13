@@ -1,10 +1,8 @@
 .offer {
-  &__wrapper {
-    background: rgba(0, 255, 133, 0.08);
-    padding: 100px 0 0;
-    @media (max-width: 768px) {
-      padding: 89px 0 53px;
-    }
+  background: rgba(0, 255, 133, 0.08);
+  padding: 100px 0 0;
+  @media (max-width: 768px) {
+    padding: 89px 0 53px;
   }
 
   &__container {
@@ -68,21 +66,21 @@
 
   &__card--services {
     max-width: 253px;
-    background-image: url(../../assets/icons/card-services.svg);
+    background-image: url(../../assets/icons/services.svg);
     background-repeat: no-repeat;
     background-position: top center;
   }
 
   &__card--search {
     max-width: 236px;
-    background-image: url(../../assets/icons/card-search.svg);
+    background-image: url(../../assets/icons/search.svg);
     background-repeat: no-repeat;
     background-position: top center;
   }
 
   &__card--histogram {
     max-width: 223px;
-    background-image: url(../../assets/icons/card-histogram.svg);
+    background-image: url(../../assets/icons/histogram.svg);
     background-repeat: no-repeat;
     background-position: top center;
   }

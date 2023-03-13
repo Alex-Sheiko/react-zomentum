@@ -1,9 +1,7 @@
 .header {
-  &__wrapper {
-    background-color: #fff;
-    @media (max-width: 768px) {
-      padding: 32px 0 51.5px;
-    }
+  background-color: #fff;
+  @media (max-width: 768px) {
+    padding: 32px 0 51.5px;
   }
 
   &__container {
@@ -25,7 +23,7 @@
   &__nav {
     margin-left: auto;
     @media (max-width: 768px) {
-      margin: 0 auto 54px;
+      margin: 0 auto 40px;
       display: flex;
       flex-direction: column;
       text-align: center;
@@ -39,12 +37,8 @@
     letter-spacing: 0.03em;
     color: #000c2d;
     @media (max-width: 768px) {
-      margin-right: 0;
+      margin: 0 0 14px;
     }
-  }
-
-  &__link + &__link {
-    margin-top: 14px;
   }
 
   &__link--active {
@@ -59,7 +53,5 @@
     line-height: 18px;
     letter-spacing: 0.03em;
     color: #2f70fe;
-    @media (max-width: 768px) {
-    }
   }
 }
