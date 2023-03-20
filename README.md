@@ -11,7 +11,7 @@ Project requirements:
 
 ## Preview
 
-![Image](https://github.com/Alex-Sheiko/react-country-list/blob/main/src/assets/preview/react-zomentum.jpg)
+![Image](https://github.com/Alex-Sheiko/react-zomentum/blob/main/src/assets/preview/react-zomentum.jpg)
 
 ## Technologies used
 
