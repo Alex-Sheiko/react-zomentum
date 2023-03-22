@@ -7,7 +7,7 @@ Project requirements:
 - Use of SСSS
 - Use of BEM methodology.
 
-[Website](https://github.com/Alex-Sheiko/react-zomentum)
+[Website](https://Alex-Sheiko.github.io/react-zomentum)
 
 ## Preview
 
