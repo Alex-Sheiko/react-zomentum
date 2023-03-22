@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-zomentum/static/css/main.0fed360f.css",
+    "main.js": "/react-zomentum/static/js/main.db2d6d12.js",
+    "static/media/Helvetica.ttf": "/react-zomentum/static/media/Helvetica.06113bf748ae7dc33e05.ttf",
+    "static/media/Helvetica-Bold.ttf": "/react-zomentum/static/media/Helvetica-Bold.ed57aca7292971d8548c.ttf",
+    "static/media/logo.svg": "/react-zomentum/static/media/logo.4dfbd91c913aad33e008a7a6435b2e03.svg",
+    "static/media/histogram.svg": "/react-zomentum/static/media/histogram.3c0aa1c4b9336e7ac0ed.svg",
+    "static/media/services.svg": "/react-zomentum/static/media/services.0fbd9ce0c6aa7251369d.svg",
+    "static/media/search.svg": "/react-zomentum/static/media/search.5cc783a9cd969cf94eee.svg",
+    "static/media/triangle.svg": "/react-zomentum/static/media/triangle.b901115abbb1a7063ddf.svg",
+    "index.html": "/react-zomentum/index.html",
+    "main.0fed360f.css.map": "/react-zomentum/static/css/main.0fed360f.css.map",
+    "main.db2d6d12.js.map": "/react-zomentum/static/js/main.db2d6d12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fed360f.css",
+    "static/js/main.db2d6d12.js"
+  ]
+}
